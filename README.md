@@ -1,8 +1,14 @@
 # Cosmic Echo
 
+[![CI](https://github.com/mikeycartier/cosmic-echo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mikeycartier/cosmic-echo/actions/workflows/ci.yml)
+
 Explore how the infrared sky changes across real observations from NASA's
 SPHEREx mission. Search by sky coordinates or choose a challenge target, then
 step through a short timeline of FITS cutouts in an interactive Aladin Lite map.
+
+## Live demo
+
+[cosmic-echo-five.vercel.app](https://cosmic-echo-five.vercel.app/)
 
 ## Features
 
